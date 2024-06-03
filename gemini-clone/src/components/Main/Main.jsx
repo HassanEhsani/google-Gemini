@@ -32,6 +32,7 @@ const Main = () => {
                         <img src={assets.code_icon} alt="" />
                     </div>
                 </div>
+                
                 <div className="main-bottom">
                     <div className="search-box">
                         <input type="text" placeholder="Enter a promp here" />
